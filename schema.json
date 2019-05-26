@@ -1,0 +1,68 @@
+{
+    "kdrama": {
+        "title": "",
+        "synopsisShort": "",
+        "synopsis": "",
+        "revised": "",
+        "hangul": "",
+        "director": "",
+        "writer": "",
+        "network": "",
+        "episodes": "",
+        "releaseDate": "",
+        "cast": "",
+        "poster": ""
+    },
+    "kpop": {
+        "name": "",
+        "shortBio": "",
+        "bio": "",
+        "agency": "",
+        "debut": "",
+        "yearsActive": "",
+        "mostPopularMember": "",
+        "fandom": "",
+        "member": [
+            {
+                "name": "",
+                "bio": "",
+                "picture": "",
+                "height": "",
+                "dateBirth": "",
+                "bloodType": "",
+                "position": ""
+            }
+        ],
+        "image": ""
+    },
+    "kmovie": {
+        "title": "",
+        "synopsisShort": "",
+        "synopsis": "",
+        "movie": "",
+        "revised": "",
+        "hangul": "",
+        "director": "",
+        "writer": "",
+        "producer": "",
+        "cinematographer": "",
+        "releaseDate": "",
+        "runtime": "",
+        "genre": "",
+        "distributor": "",
+        "cast": "",
+        "poster": ""
+    },
+    "kvarietyshow": {
+        "title": "",
+        "synopsisShort": "",
+        "synopsis": "",
+        "aka": "",
+        "airTime": "",
+        "director": "",
+        "broadcastNetwork": "",
+        "released": "",
+        "cast": "",
+        "poster": ""
+    }
+}
