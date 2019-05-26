@@ -1,0 +1,60 @@
+// https://koreaboo-server.herokuapp.com/api/kdrama
+{
+    "title": "Welcome to Waikiki",
+    "synopsisShort": "These 3 men run the guest house Waikiki in Itaewon, South Korea. Their guest house is facing bankruptcy and then a mysterious baby and single mother appear at Waikiki.",
+    "synopsis": "Kang Dong-Goo (Kim Jung-Hyun) dreams of becoming a movie director, but he is cynical due to bad luck. Cheon Joon-Ki (Lee Yi-Kyung) wanted to follow in his father's footsteps and become an actor, but he is now just a minor actor. Bong-Doo-Sik (Son Seung-Won) came to Seoul to become a scenario writer, but things have not been easy for him.\nThese 3 men run the guest house Waikiki in Itaewon, South Korea. Their guest house is facing bankruptcy and then a mysterious baby and single mother appear at Waikiki.",
+    "revised": "Eulachacha Waikiki",
+    "hangul": "으라차차 와이키키",
+    "director": "Lee Chang-Min",
+    "writer": "Kim Ki-Ho, Song Ji-Eun, Song Mi-So",
+    "network": "JTBC",
+    "episodes": "20",
+    "releaseDate": "2018-02-05",
+    "cast": "Kim Jung-Hyun as Kang Dong-Goo, Lee Yi-Kyung as Lee Joon-Ki, Son Seung-Won as Bong-Doo-Sik, Jung In-Sun as Han Yoon-A, Go Won-Hee as Kang Seo-Jin, Lee Joo-Woo as Min Soo-A",
+    "poster": "drama/waikiki.jpg"
+}
+// https://koreaboo-server.herokuapp.com/api/kpop
+{
+    "name": "BLACKPINK",
+    "shortBio": "BLACKPINK debuted on August 8, 2016 under YG Entertainment.",
+    "bio": "BLACKPINK (블랙핑크; stylized as BLΛƆKPIИK) is a South Korean girl group formed under YG Entertainment consisting of four members Jisoo, Jennie, Lisa, and Rosé. and the first girl group that debuted under the entertainment agency in seven years after 2NE1. They debuted on August 8, 2016 with their digital single album \"Square One\". \"Ddu-Du Ddu-Du\" at the time of its release was the most viewed music video in 24 hours on YouTube, it also is the most viewed music video on YouTube by any Kpop group.",
+    "agency": "YG Entertainment",
+    "debut": "2016-08-08",
+    "yearsActive": "2016–present",
+    "mostPopularMember": "Lisa",
+    "fandom": "BLINK",
+    "member": "[{\"name\": \"Lisa\",\"bio\": \"Lalisa Manoban (ลลิสา มโนบาล), best known for her stage name Lisa, is the Main Dancer, Lead Rapper, Vocalist, and Maknae of the Girl Group Blackpink under YG Entertainment. Born in Bangkok Thailand with the name Pranpriya Manoban (ปราณปริยา มโนบาล), Lisa always had the passion for dancing even when she was still at a very young age, so much that she joined a dance crew which Got7's Bambam is also a part of. In 2010, YG Entertainment held an Audition on Thailand in which Lisa was the only one accepted. Through this, Lisa became an official YG trainee. Upon training for more than five years in Korea, Lisa was able to debut and went on to become one of the most famous female idols of her generation.\",\"picture\": \"music/bp/lisa.jpeg\",\"height\": \"167cm\",\"dateBirth\": \"1997-03-07\",\"bloodType\": \"O\",\"position\": \"Main Dancer, Lead Rapper, Sub Vocalist, Maknae\"}, {\"name\": \"Lisa\",\"bio\": \"Lalisa Manoban (ลลิสา มโนบาล), best known for her stage name Lisa, is the Main Dancer, Lead Rapper, Vocalist, and Maknae of the Girl Group Blackpink under YG Entertainment. Born in Bangkok Thailand with the name Pranpriya Manoban (ปราณปริยา มโนบาล), Lisa always had the passion for dancing even when she was still at a very young age, so much that she joined a dance crew which Got7's Bambam is also a part of. In 2010, YG Entertainment held an Audition on Thailand in which Lisa was the only one accepted. Through this, Lisa became an official YG trainee. Upon training for more than five years in Korea, Lisa was able to debut and went on to become one of the most famous female idols of her generation.\",\"picture\": \"music/bp/lisa.jpeg\",\"height\": \"167cm\",\"dateBirth\": \"1997-03-07\",\"bloodType\": \"O\",\"position\": \"Main Dancer, Lead Rapper, Sub Vocalist, Maknae\"}, {\"name\": \"Lisa\",\"bio\": \"Lalisa Manoban (ลลิสา มโนบาล), best known for her stage name Lisa, is the Main Dancer, Lead Rapper, Vocalist, and Maknae of the Girl Group Blackpink under YG Entertainment. Born in Bangkok Thailand with the name Pranpriya Manoban (ปราณปริยา มโนบาล), Lisa always had the passion for dancing even when she was still at a very young age, so much that she joined a dance crew which Got7's Bambam is also a part of. In 2010, YG Entertainment held an Audition on Thailand in which Lisa was the only one accepted. Through this, Lisa became an official YG trainee. Upon training for more than five years in Korea, Lisa was able to debut and went on to become one of the most famous female idols of her generation.\",\"picture\": \"music/bp/lisa.jpeg\",\"height\": \"167cm\",\"dateBirth\": \"1997-03-07\",\"bloodType\": \"O\",\"position\": \"Main Dancer, Lead Rapper, Sub Vocalist, Maknae\"}, {\"name\": \"Lisa\",\"bio\": \"Lalisa Manoban (ลลิสา มโนบาล), best known for her stage name Lisa, is the Main Dancer, Lead Rapper, Vocalist, and Maknae of the Girl Group Blackpink under YG Entertainment. Born in Bangkok Thailand with the name Pranpriya Manoban (ปราณปริยา มโนบาล), Lisa always had the passion for dancing even when she was still at a very young age, so much that she joined a dance crew which Got7's Bambam is also a part of. In 2010, YG Entertainment held an Audition on Thailand in which Lisa was the only one accepted. Through this, Lisa became an official YG trainee. Upon training for more than five years in Korea, Lisa was able to debut and went on to become one of the most famous female idols of her generation.\",\"picture\": \"music/bp/lisa.jpeg\",\"height\": \"167cm\",\"dateBirth\": \"1997-03-07\",\"bloodType\": \"O\",\"position\": \"Main Dancer, Lead Rapper, Sub Vocalist, Maknae\"}]",
+    "image": "music/bp/bpmain.jpeg"
+}
+// https://koreaboo-server.herokuapp.com/api/kmovie
+{
+    "title": "FABRICATED CITY",
+    "synopsisShort": "Filming began July 1, 2015 in Yongsan, Seoul, South Korea and finished December 29, 2015 in Seoul.",
+    "synopsis": "In real life, Kwon Yoo (Ji Chang-Wook) is unemployed, but in the virtual game world he is the best leader. Kwon Yoo is then framed for a murder. With the help of hacker Yeo-Wool (Shim Eun-Kyung), he tries to uncover the truth behind the murder case.",
+    "movie": "Fabricated City",
+    "revised": "Jojakdwen Doshi",
+    "hangul": "조작된 도시",
+    "director": "Park Kwang-Hyun",
+    "writer": "Park Kwang-Hyun, Oh Sang-Ho",
+    "producer": "Jang Young-Hwan, Jung Jae-Wook, Kim Hyun-Chul",
+    "cinematographer": "Nam Dong-Geun",
+    "releaseDate": "2017-02-09",
+    "runtime": "126 Min",
+    "genre": "Action, Crime",
+    "distributor": "CJ Entertainment",
+    "cast": "Ji Chang-Wook as Kwon Yoo, Shim Eun-Kyung as Yeo-Wool, Oh Jung-Se as Min Chung-Sang, Ahn Jae-Hong as Demolition, Kim Sang-Ho as Ma Deok-Soo",
+    "poster": "movie/fabricatedcity.jpg"
+}
+// https://koreaboo-server.herokuapp.com/api/kvarietyshow
+{
+    "title": "RUNNING MAN",
+    "synopsisShort": "Running Man (Korean: 런닝맨) is a South Korean variety show; a part of SBS's Good Sunday lineup, along with Roommate. It was first aired on July 11, 2010.",
+    "synopsis": "Running Man is a South Korean variety show; a part of SBS's Good Sunday lineup,along with Roommate. It was first aired on July 11, 2010. This show was classified as an \"urban action variety\"; a never-before-seen new genre of variety shows focused in an urban environment. The MCs and guests complete missions in a landmark to win the race. The show has since shifted to a more familiar reality-variety show concept focused on games. It has garnered attention as being the come-back program for Yoo Jae-suk, the main MC of the program, after leaving Good Sunday's Family Outing in February 2010.\n\nAiring at the 5 pm KST time slot for most of its run, Running Man switched to the second part of Good Sunday (which happened May 22 and May 29, 2011 with Kim Yu-na's Kiss and Cry but was quickly switched back due to low ratings) beginning May 6, 2012, airing after Kim Byung-man's Law of the Jungle 2 at 6:10 pm and airing against KBS2 Happy Sunday's 1 Night 2 Days Season 2 and MBC Sunday Night's I Am a Singer 2.",
+    "aka": "Running Man",
+    "airTime": "17h",
+    "director": "Jo Hyo-jin, Im Hyung-taek, Kim Ju-hyung",
+    "broadcastNetwork": "SBS",
+    "released": "2010",
+    "cast": "Yoo Jae-Suk, Haha, Ji Suk-Jin, Kim Jong-kook, Lee Kwang-soo, Song Ji-hyo, Jeon So-min, Yang Se-chan",
+    "poster": "vshow/RM.jpg"
+}
